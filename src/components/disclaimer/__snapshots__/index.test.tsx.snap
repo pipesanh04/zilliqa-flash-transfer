@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<small
+  data-testid="disclaimer"
+  style="color: coral;"
+>
+  This is Zilliqa Transfers
+  <b>
+    Zilliqa Transfers
+  </b>
+  Do not send the Zilliqa to your wallet before you have paid the fee. you can lose your Zil.
+</small>
+`;

@@ -1,0 +1,8 @@
+{
+  "short_name": "Zilliqa Transfers",
+  "name": "Zilliqa Transfers",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#BC1F1F",
+  "background_color": "#BC1F1F"
+}
